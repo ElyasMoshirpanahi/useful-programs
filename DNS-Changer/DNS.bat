@@ -1,0 +1,1 @@
+python "PATH_TO YOUR set-dns.py FILE"                                                 
